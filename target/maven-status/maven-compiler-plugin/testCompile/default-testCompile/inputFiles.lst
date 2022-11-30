@@ -1,0 +1,8 @@
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/pages/BasePage.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/utility/BrowserUtil.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/utility/ConfigurationReader.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/runner/FailedTestRunner.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/utility/Driver.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/utility/DB_Util.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/runner/CukesRunner.java
+/Users/loanvu/IdeaProjects/LibrarayAppDB_Group9/src/test/java/com/cydeo/steps/Hooks.java
