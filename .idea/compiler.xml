@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="LibrarayAppDB_Group9" options="" />
+      <module name="LibrarayAppDB_Group9" options="--add-modules java.base" />
     </option>
   </component>
 </project>
